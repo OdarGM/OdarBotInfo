@@ -82,10 +82,12 @@
 
 *  0.2.0
 
-#### Last Updated
-
-* 10/4/2018
-
 ## Website
 
 https://bot.odar.xyz
+
+<p><a href="https://discord.gg/zvvasbc298762167388471296"><img src="https://discordapp.com/api/guilds/298762167388471296/widget.png?style=banner3"></a></p>
+
+#### Last Updated
+
+* 10/4/2018
